@@ -3,7 +3,9 @@
 
 I have 3 years of experience with software developing and programming  analyst. I am comfortable working with react native, swift, python, java and JavaScript.  
 
-Skills:  REACT / JS / HTML / CSS / IONIC / ANGULAR / NODE.JS / PYTON 
+## Skills:  
+
+REACT / JS / HTML / CSS / IONIC / ANGULAR / NODE.JS / PYTON 
 
 - 🔭 I’m currently working on creating mobile application for Geeazy.com / and working almost with everything. 
 - 🌱 I’m currently learning Clound Computing, Machine Learining, Angular and ionic. 
