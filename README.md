@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I am Rezwan Tarin
 
-<!--
-**RezwanTarin/RezwanTarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am software developer, tech lover and problem solver 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on creating mobile application for Geeazy.com / and working almost with everything
+- 🌱 I’m currently learning Clound Computing, Machine Learining, Angular and ionic 
+- 👯 I’m looking to collaborate on any new ideas related to AI or mobile applications 
+- 🤔 I’m looking for help with C++
+- 💬 Ask me about anything, but I am more interested in Machine learing, AI and mobile application 
+- 📫 How to reach me: rezwantairn2016@gamil.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I didn't know a word of English 5 years ago. 
 -->
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=RezwanTarin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
