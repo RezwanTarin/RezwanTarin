@@ -4,16 +4,16 @@
 I have 3 years of experience with software developing and programming  analyst. I am comfortable working with react native, swift, python, java and JavaScript.  
 
 ## Skills:  
-
+  
 REACT / JS / HTML / CSS / IONIC / ANGULAR / NODE.JS / PYTON 
 
+- 😄 Pronouns: HE/HIS 
 - 🔭 I’m currently working on creating mobile application for Geeazy.com / and working almost with everything. 
 - 🌱 I’m currently learning Clound Computing, Machine Learining, Angular and ionic. 
 - 👯 I’m looking to collaborate on any new ideas related to AI or mobile applications. 
 - 🤔 I’m looking for help with C++ 
 - 💬 Ask me about anything, but I am more interested in Machine learing, AI and mobile application 
 - 📫 How to reach me: rezwantarin2016@gmail.com 
-- 😄 Pronouns: HE/HIS 
 - ⚡ Fun fact:  I didn't know a word of English 5 years ago. 
 
 
