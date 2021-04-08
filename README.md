@@ -10,6 +10,7 @@ I am software developer, tech lover and problem solver
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about anything, but I am more interested in Machine learing, AI and mobile application 
 - 📫 How to reach me: rezwantairn2016@gamil.com
+- <a class="social-list__link" href="https://www.instagram.com/r.t.7.8.6/"><i class="fab fa-instagram"></i></a>
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I didn't know a word of English 5 years ago. 
 -->
