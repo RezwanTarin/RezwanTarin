@@ -7,7 +7,7 @@ I have 3 years of experience with software developing and programming  analyst. 
 
 ## Skills:  
   
-REACT / JS / HTML / CSS / IONIC / ANGULAR / NODE.JS / PYTON 
+ MACHINE LEARNING / IOS AND ANDRIOD DEVELOPER / SWIFT / JAVA / JAVASCRIPT / REACT / JS / HTML / CSS / IONIC / ANGULAR / NODE.JS / PYTON / AGILE DEVELOPERR
 
 - 😄 Pronouns: HE/HIS 
 - 🔭 I’m currently working on creating mobile application for Geeazy.com / and working almost with everything. 
