@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Rezwan Tarin
 #### I am software developer, tech lover and problem solver
 
-I have 3 years of experience with software developing and programming  analyst. I am comfortable working with react native, swift, python, java and JavaScript.  
+I have 3 years of experience with software developing and program analysis. I am comfortable working with react native, swift, python, java and JavaScript.  
 
 ## Skills:  
   
