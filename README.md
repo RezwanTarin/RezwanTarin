@@ -1,4 +1,3 @@
-<img src="https://github.com/RezwanTarin/RezwanTarin/blob/master/profile.jpg" />
 
 ### Hi there 👋, my name is Rezwan Tarin
 #### I am software developer, tech lover and problem solver
